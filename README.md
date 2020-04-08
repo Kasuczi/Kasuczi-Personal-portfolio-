@@ -1,2 +1,2 @@
-# Kasuczi-Personal-portfolio-
+# Personal-portfolio
 Portfolio
